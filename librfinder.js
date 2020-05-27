@@ -1,5 +1,5 @@
 /*
-  based on @spacepilotAV's refreshFinder
+  librfinder
   GPLV2
 */
 
